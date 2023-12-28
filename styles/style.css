@@ -1,0 +1,32 @@
+
+header{background-color: rgb(186, 151, 167)}
+.pop-color {color: rgb(234, 128, 156);}
+
+
+p {color: rgb(86, 97, 180, 225)}
+section p {font-size: 17px;}
+ol {font-size: medium;
+color: rgb(155, 50, 207);}
+
+footer {background-color: rgb(236, 97, 97);}
+footer p {color: aliceblue;
+font-size: larger;
+font-weight:bold ;}
+ 
+span {color: #913131;}
+
+#logo-img {width: 250px;}
+
+#header_container {border: 3px solid #891f1f;
+padding-top: 10px;
+padding-bottom: 15px;
+padding-left: 15pxpx;
+padding-right: 100px;
+margin-bottom: 40px;
+}
+
+#header_container, ul {display: flex;
+    flex-direction: row;
+
+}
+#ul{gap: 50px;}
